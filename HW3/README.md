@@ -135,4 +135,4 @@ cancel:
 
 
 ```
-![Alt text](<fotos/Снимок экрана_1.png>)
+![Alt text](<fotos/Снимок экрана_1 (1).png>)
